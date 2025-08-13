@@ -72,8 +72,7 @@ Contact
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akshaya-r-7246172b7).
 
----
 
-Do you want me to **also include sample prediction images and accuracy graphs from your notebook** in this README so it looks more visually engaging on GitHub? That would make it stand out.
+
 
 
